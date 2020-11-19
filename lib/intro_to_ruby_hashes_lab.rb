@@ -1,11 +1,8 @@
-def new_hash 
+def new_hash
   {}
 end
 
-def my_hash = {
-    :myname => "Luke",
-    :myage => 27
-  }
+def my_hash = 
 end
 
 def pioneer
